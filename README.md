@@ -1,102 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:4C1D95,100:06B6D4&height=170&section=header&text=SIREESHA%20GUJJALA&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Associate%20Software%20Engineer%20%7C%20AI%2FML%20Developer&descSize=17&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B1A,45:312E81,75:7C3AED,100:0891B2&height=150&section=header&text=Sireesha%20Gujjala&fontSize=44&fontColor=F8FAFC&fontAlignY=42&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+with+Software+%C3%97+AI+%C3%97+Data;Learning+by+Building;Turning+Ideas+into+Intelligent+Solutions;Always+Exploring+What's+Next" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Associate+Software+Engineer;AI%2FML+Developer;Software+%C3%97+AI+%C3%97+Data" />
 
-<br>
-
-[GitHub](https://github.com/Sireesha1610) •
-[LinkedIn](https://www.linkedin.com/in/sireesha-gujjala-523846300) •
-[Email](mailto:heyyellowman910@gmail.com)
+<p>
+<a href="https://github.com/Sireesha1610">GitHub</a> ·
+<a href="https://www.linkedin.com/in/sireesha-gujjala-523846300">LinkedIn</a> ·
+<a href="mailto:heyyellowman910@gmail.com">Email</a>
+</p>
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm **Sireesha**, a Computer Science Engineering graduate and
-**Associate Software Engineer at Mphasis**.
+Computer Science Engineering graduate and **Associate Software Engineer at Mphasis**, interested in **AI/ML, Data Science and Software Development**.
 
-I'm interested in **Artificial Intelligence, Machine Learning,
-Data Science, and Software Development**.
-
-I enjoy turning ideas into practical solutions and learning through
-hands-on building.
-
-> **Learn. Build. Break. Improve. Repeat.**
+**Learn → Build → Improve**
 
 ---
 
 ## Tech Stack
 
-**Languages**
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,mysql,mongodb,aws,git,github,vscode,html,css&theme=dark" />
+</p>
 
-`Python` · `C` · `SQL` · `HTML` · `CSS`
-
-**AI / ML**
-
-`Machine Learning` · `Deep Learning` · `NLP` · `FinBERT` · `TFT` · `Reinforcement Learning`
-
-**Data & Cloud**
-
-`Data Science` · `Data Visualization` · `MySQL` · `MongoDB` · `AWS`
-
-**Tools**
-
-`Git` · `GitHub` · `VS Code` · `Salesforce`
+`Machine Learning` · `Deep Learning` · `NLP` · `Data Science` · `Salesforce`
 
 ---
 
-## Featured Projects
+## Featured
 
-### AI-Powered Cryptocurrency Market Forecasting
+**Cryptocurrency Market Forecasting**  
+`TFT` · `FinBERT` · `SAC` · `Deep Learning` · `Reinforcement Learning`
 
-Hybrid **Deep Learning + Reinforcement Learning** framework combining
-market data, sentiment analysis, and intelligent trading strategies.
+**StockSight**  
+`Machine Learning` · `Predictive Analytics` · `Walmart Sparkathon`
 
-`TFT` · `FinBERT` · `SAC` · `OHLCV` · `Sentiment Analysis`
-
-### StockSight — Predict & Prevent Stockouts
-
-**Walmart Sparkathon** project focused on predicting potential inventory
-stockouts and enabling proactive inventory management.
-
-`Machine Learning` · `Predictive Analytics` · `Data`
-
-### Diabetes Prediction
-
-Machine learning project focused on predicting diabetes using
-patient-related attributes.
-
-`Python` · `Machine Learning` · `Data Analysis`
-
-### Salesforce FoodConnect
-
-Salesforce solution designed to support food donation and
-distribution workflows.
-
-`Salesforce` · `Automation` · `Dashboards`
+**Diabetes Prediction**  
+`Python` · `Machine Learning` · `Data Science`
 
 ---
 
 ## Currently Exploring
 
-`Generative AI` · `Advanced Python` · `Machine Learning`  
-`DSA` · `SQL` · `AWS` · `Data Science`
-
----
-
-## Engineering Philosophy
-
-> **Learn → Build → Improve**
-
-I don't wait until I know everything before I start.
-
-I build, experiment, learn from failures, and keep improving.
-
-**Progress over perfection.**
+`Generative AI` · `Advanced Python` · `DSA` · `SQL` · `AWS`
 
 ---
 
@@ -104,17 +55,9 @@ I build, experiment, learn from failures, and keep improving.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sireesha1610&show_icons=true&hide_border=true&bg_color=0B1026&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&rank_icon=github" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sireesha1610&show_icons=true&hide_border=true&bg_color=080B1A&title_color=C4B5FD&icon_color=22D3EE&text_color=CBD5E1&rank_icon=github" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sireesha1610&layout=compact&hide_border=true&bg_color=0B1026&title_color=A78BFA&text_color=CBD5E1" width="40%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sireesha1610&theme=dark&hide_border=true&background=0B1026&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sireesha1610&layout=compact&hide_border=true&bg_color=080B1A&title_color=C4B5FD&text_color=CBD5E1" width="40%"/>
 
 </div>
 
@@ -124,12 +67,14 @@ I build, experiment, learn from failures, and keep improving.
 
 ### Building · Learning · Evolving
 
-**Open to opportunities, collaborations, and interesting problems.**
-
-[Let's Connect →](https://www.linkedin.com/in/sireesha-gujjala-523846300)
+**Open to opportunities & collaborations.**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4C1D95,100:0B1026&height=100&section=footer" width="100%"/>
+<a href="https://www.linkedin.com/in/sireesha-gujjala-523846300">
+<img src="https://img.shields.io/badge/LET'S_CONNECT-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,45:4C1D95,75:312E81,100:080B1A&height=80&section=footer" width="100%"/>
 
 </div>
